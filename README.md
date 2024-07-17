@@ -1,4 +1,4 @@
-# 📺 Colección de Series ScreenMatch
+# 🎬 Series API ScreenMatch
 
 ¡Bienvenido al proyecto API de Colección de Series! Este proyecto está desarrollado en Java y proporciona una API RESTful para gestionar una colección de series de televisión. Con esta API, puedes administrar series, episodios, temporadas, pósters, calificaciones, y más.
 
